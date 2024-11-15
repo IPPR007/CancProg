@@ -1,1 +1,1 @@
-# Cancer Pathomic Analysis
+# Cancer Pathological Analysis
