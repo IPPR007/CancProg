@@ -32,7 +32,7 @@ install_if_missing <- function(package) {
       print(paste("Error installing", package, ":", e$message))  
     })  
   } else {  
-    print(paste(package, "is already installed"))  
+    print(paste(package, " is already installed."))  
   }  
 }  
 
